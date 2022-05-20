@@ -42,13 +42,13 @@ ul{
   text-indent: -900px;
 }
 #area-menu{
-  background: url(../images/topo-imagem-lateral.png);
+  background: url(../Images/topo-imagem-lateral.png);
   width: 470px;
   height: 250px;
   position: absolute;
   top: 0;
   right: 0;
-  z-index: 2;
+  z-index: 5;
 }
 #conteudo-menu{
   margin: 0 15px 0 80px;
